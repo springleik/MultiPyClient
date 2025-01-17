@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Two TCP servers, two UDP servers, and a console,
 # Single process, multiple threads
-# M. Williamsen, Quantum Design, 20 September 2021
+# M. Williamsen, 15 January 2025
 # https://docs.python.org/3/library/socketserver.html
 
 import socket, threading, socketserver, json
